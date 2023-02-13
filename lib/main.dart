@@ -71,11 +71,11 @@ class MyApp extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Image.asset(
-                            'assets/icon_male.png',
+                            'assets/icon_female.png',
                             height: 80,
                           ),
                           const Text(
-                            'Male',
+                            'Female',
                             style: TextStyle(
                               fontSize: 20,
                               fontWeight: FontWeight.w600,
